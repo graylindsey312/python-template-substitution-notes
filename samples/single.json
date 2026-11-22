@@ -1,0 +1,6 @@
+{
+  "template": "$$${amount}",
+  "values": {
+    "amount": 12
+  }
+}
